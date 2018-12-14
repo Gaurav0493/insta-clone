@@ -88,7 +88,7 @@ let root = {
 
 // Configure Pusher client
 let pusher = new Pusher({
-  appId: "",
+  appId: " ",
   key: "",
   secret: "",
   cluster: "",
