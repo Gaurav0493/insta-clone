@@ -91,7 +91,7 @@ let pusher = new Pusher({
   appId: " ",
   key: "",
   secret: "",
-  cluster: "",
+  cluster: " ",
   encrypted: true
 });
 
