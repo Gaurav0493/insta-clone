@@ -90,7 +90,7 @@ let root = {
 let pusher = new Pusher({
   appId: " ",
   key: "",
-  secret: "",
+  secret: " ",
   cluster: " ",
   encrypted: true
 });
