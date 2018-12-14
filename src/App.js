@@ -18,7 +18,7 @@ class App extends Component{
     super();
     // connect to pusher
     this.pusher = new Pusher('', {
-      cluster: "  ",
+      cluster: " ",
       encrypted: true
     });
   }
