@@ -9,6 +9,7 @@
     "cors": "^2.8.4",
     "graphql": "^0.13.2",
     "graphql-tag": "^2.8.0",
+    "http-server": "^0.11.1",
     "pusher": "^1.5.1",
     "pusher-js": "^4.2.2",
     "react": "^16.2.0",

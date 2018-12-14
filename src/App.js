@@ -17,8 +17,8 @@ class App extends Component{
   constructor(){
     super();
     // connect to pusher
-    this.pusher = new Pusher("PUSHER_APP_KEY", {
-      cluster: "eu",
+    this.pusher = new Pusher('', {
+      cluster: "",
       encrypted: true
     });
   }
