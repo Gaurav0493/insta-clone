@@ -25,7 +25,7 @@ class App extends Component{
 
   componentDidMount(){
     if ('actions' in Notification.prototype) {
-      console.log('You can enjoy notification feature');
+      console.log('You can enjoy notification feature on mobile');
     } else {
       console.log('Sorry notifications are NOT supported on your browser');
     }
